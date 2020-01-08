@@ -11,7 +11,7 @@ we need
 3.Include MPDF & get PDF
 
 
-Youtube Tutorial : https://youtu.be/66MsqbL2HA8
+Youtube Tutorial : https://youtu.be/yjXH1qivaH4
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
