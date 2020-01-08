@@ -1,7 +1,7 @@
 "# mpdf" 
 
 
-PDF Creation Tutorial IN PHP & HTML Tempalte with MPDF | Create PDF with MPDF in PHP 
+PDF Creation Tutorial IN PHP & HTML Template with MPDF | Create PDF with MPDF in PHP
 =============================================================================================
 we need 
 
